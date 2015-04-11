@@ -1,0 +1,9 @@
+{
+ "friends": [
+ 	{"name":"Alberto", "hobbie":"No hacer nada", "age":"21", "phone": "8932275470", "address": "Lazaro 261 Michoacan"},
+ 	{"name":"Camargo", "hobbie":"Trollear", "age":"22", "phone": "3360875496", "address": "Guadalajara 521 Chapalita"},
+ 	{"name":"César", "hobbie":"Ver Bax", "age":"20", "phone": "3388552200", "address": "Ghetto 145 Guadalajara"},
+ 	{"name":"Emmanuel", "hobbie":"Dormir", "age":"21", "phone": "3358609965", "address": "Ghetto 262 Guadalajara"},
+ 	{"name":"Shoab", "hobbie":"La fiesta", "age":"21", "phone": "3362145463", "address": "El Tec 985 Guadalajara"}
+ ]
+}
